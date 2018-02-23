@@ -5,7 +5,7 @@
 var express = require('express');
 var app = express();
 
-const port = 8080;
+const port = 5000;
 
 app.get('/', (request, response) => {
   response.send('Tänne tulee hieno app OhSiHaa varten!');
