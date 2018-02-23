@@ -4,6 +4,7 @@
   "description": "A web project for TUT course \"Ohjelmallinen Sisällönhallinta\", spring 2018.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Santtu Laine",
