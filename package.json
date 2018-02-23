@@ -1,0 +1,15 @@
+{
+  "name": "omakirjasto",
+  "version": "0.0.1",
+  "description": "A web project for TUT course \"Ohjelmallinen Sisällönhallinta\", spring 2018.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santtu Laine",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.18.1",
+    "express": "^4.16.2"
+  }
+}
